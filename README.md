@@ -1,1 +1,1 @@
-# Client_Server-ASP-Project
+#In this final project we write two C programs a client and a server to implement a remote shell connection using sockets. The server process's and the client process will run on two different machines and the communication between the two processes is achieved using Sockets.
